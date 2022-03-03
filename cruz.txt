@@ -1,0 +1,23 @@
+Initialise funds at USD 30,000,000
+Polling: 54%
+Debate skills: 46% win chance
+
+QUESTIONS:
+
+1. Who will you most tie yourself to?
+	a. Trump (-4, -0.7) {"This will not help in crucial suburbs like Tarrant and Harris Counties!"}
+	b. Republicans generally (-2.5, -0.7) {"It is a GOP mid-term, so this is not a good strategy."}
+	c. Sen. Majority Whip John Cornyn (-0.1, 0.2) {"This is your best choice; Cornyn is a popular Texan senator."}
+	d. Sen. Majority Leader Mitch McConnell (-3, -2) {"McConnell is uncharismatic and unpopular."}
+	e. Total outsider! (-4, -3) {"You are the incumbent..."}
+2. What will be your general strategy for the campaign?
+	a. Run as an outsider (-2, -1) {"You are the incumbent!"} 
+	b. Mention your failed presidential campaign (-1.5, -0.5) {"People have already forgotten about it, and that's good because your 180 on Trump since then."}
+	c. Attack attack attack! (-2, -1) {"This does not satisfy moderates. The only people who hate Beto will vote for you anyway."}
+	d. Point at your record (-3, -1) {"Good move, though some of your moves have been unpopular, such as your fillibustering."}
+3. What is your ideology?
+	a. Moderate (-2, 0) {"The GOP is quite right wing, and the base is displeased, but this helps with moderates."}
+	b. Establishment Republican (-1.5, -0.5) {"You were an outsider 6 years ago; also, the Republicans are not popular now."}
+	c. Firebrand conservative (-2, -1) {"This does not help with moderate suburbanites."}
+4. 
+	a. 
