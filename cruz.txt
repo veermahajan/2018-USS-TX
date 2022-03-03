@@ -19,5 +19,8 @@ QUESTIONS:
 	a. Moderate (-2, 0) {"The GOP is quite right wing, and the base is displeased, but this helps with moderates."}
 	b. Establishment Republican (-1.5, -0.5) {"You were an outsider 6 years ago; also, the Republicans are not popular now."}
 	c. Firebrand conservative (-2, -1) {"This does not help with moderate suburbanites."}
-4. 
-	a. 
+4. Who are you trying to appeal to?
+	a. Rural Hispanics in the R.G.V. (-0.6, 2) {"But you want to deport these people..."}
+	b. Rural voters in places such as the Panhandle (-2, -1) {"Barely anyone lives there, and most will vote for you."}
+	c. Urban Hispanics in places such as El Paso and San Antonio (-1, 1) {"Interesting strategy, since you're Hispanic."}
+	d. Suburbanites in places such as Fort Bend County (-2, -1) {"You are the incumbent!"}
