@@ -1,4 +1,4 @@
-var polling = 54;
+var polling = 56;
 
 document.getElementById("main").innerHTML = "<p>Who will you most tie yourself to?</p><br><button onclick='t1()'>Trump</button><br><button onclick='g1()'>Republicans generally</button><br><button onclick='c1()'>Sen. Majority Whip John Cornyn</button><br><button onclick='m1()'>Sen. Majority Leader Mitch McConnell</button><br><button onclick='o1()'>Total Outsider!</button>";
 
