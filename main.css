@@ -2,16 +2,12 @@ button{
   border:1px solid black;
   border-radius: 10%;
   background-color:red;
-  font-family: "Georgia", serif;
   color:black;
 }
 body{
   color:red;
+  font-family: "Georgia", serif;
 }
 h1{
-  font-family:"Georgia", serif;
   text-align:center;
-}
-p{
-  font-family: "Georgia", serif;
 }
