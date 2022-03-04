@@ -4,25 +4,25 @@ document.getElementById("main").innerHTML = "<p>Who will you most tie yourself t
 
 function t1(){
   polling += (Math.floor(Math.random() * 33) - 40)/10;
-  document.getElementById("main").innerHTML = "<p>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
+  document.getElementById("main").innerHTML = "<p>This will not help in crucial suburbs like Tarrant and Harris Counties!<br>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
 }
 
 function g1(){
   polling += (Math.floor(Math.random() * 18) - 25)/10;
-  document.getElementById("main").innerHTML = "<p>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
+  document.getElementById("main").innerHTML = "<p>It is a GOP mid-term, so this is not a good strategy.<br>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
 }
 
 function c1(){
   polling += (Math.floor(Math.random() * 3) - 1)/10;
-  document.getElementById("main").innerHTML = "<p>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
+  document.getElementById("main").innerHTML = "<p>This is your best choice; Cornyn is a popular Texan senator.<br>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
 }
 
 function m1(){
   polling += (Math.floor(Math.random() * 10) - 30)/10;
-  document.getElementById("main").innerHTML = "<p>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
+  document.getElementById("main").innerHTML = "<p>McConnell is uncharismatic and unpopular.<br>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
 }
 
 function o1(){
   polling += (Math.floor(Math.random() * 10) - 40)/10;
-  document.getElementById("main").innerHTML = "<p>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
+  document.getElementById("main").innerHTML = "<p>You are the incumbent...<br>Polling:<br>Cruz: " + polling + "%<br>O'Rourke: " + (100 - polling) + "%</p>";
 }
