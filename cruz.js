@@ -1,4 +1,4 @@
-var polling = 56;
+var polling = 54.5;
 var cash = 0;
 document.getElementById("main").innerHTML = "<p>Who will you most tie yourself to during the campaign?</p><br><button onclick='a1()'>Trump</button><br><button onclick='b1()'>Republicans generally</button><br><button onclick='c1()'>Sen. Majority Whip John Cornyn</button><br><button onclick='d1()'>Sen. Majority Leader Mitch McConnell</button><br><button onclick='e1()'>Total Outsider!</button>";
 function a1(){
